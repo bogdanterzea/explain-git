@@ -1,3 +1,3 @@
 # First file md
-## hello Bodan :D
-## Conflict 
+## hello Bodan :)
+I am here
